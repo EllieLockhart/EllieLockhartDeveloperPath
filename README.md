@@ -22,7 +22,7 @@ This personal organizer/journal records Ellie Lockhart's achievement of mileston
 ### Build a database for media marketing and academic research
 - [ ] Implement a short term MongoDB solution
 - [ ] Test a PostgreSQL solution for structured data storage
-- [ ] Construct a significant corpus for machine learning 
+- [ ] Construct a significant corpus for machine learning
 ## Simple Language Goals
 ### Learning Python
 - [x] Learn basic Python syntax
@@ -37,7 +37,7 @@ This personal organizer/journal records Ellie Lockhart's achievement of mileston
 - [ ] Basic proficiency: django
 - [ ] Basic proficiency: Google search API
 - [ ] Proficiency: SciKitLearn
-- [ ] Proficiency: NLTK 
+- [ ] Proficiency: NLTK
 - [ ] Profiency: NLTK alternative
 - [ ] Proficiency: TensorFlow
 ### Learning Javascript
@@ -57,13 +57,15 @@ This personal organizer/journal records Ellie Lockhart's achievement of mileston
 - [ ] Proficiency: MongoDB
 - [ ] Proficiency: Cassandra (IF TIME PERMITS)
 ### Learning SQL
+- [ ] Install a basic MongoDB setup either locally or in the cloud
+- [ ] Install a basic relational SQL setup (Postgre or Maria?) either locally or in the cloud, or possibly try an Amazon based solution?
 - [X] Learn SQL basic database administration
 - [ ] Learn SQL scripting/queries
 - [ ] Learn interfaces between SQL and Python
 - [ ] Learn interfaces between SQL and Javascript/Node
-- [ ] Learn interfaces between SQL and Kotlin 
+- [ ] Learn interfaces between SQL and Kotlin
 ### General Coding Goals
 - [X] Settle on a coding style for Python
 - [ ] Settle on a coding style for Javascript
-- [ ] Settle on a coding style for Kotlin 
+- [ ] Settle on a coding style for Kotlin
 - [ ] Clean up GitHub repos
