@@ -14,27 +14,32 @@ This personal organizer/journal records Ellie Lockhart's achievement of mileston
     - 09/17/2020: (Media Representation Project, Video Game ML Project) Begin import of raw data into PostgreSQL **COMPLETED**
 ## Project Goals
 ### Video Game Marketing/Sentiment Analysis
-- [ ] Develop a scraping algorithm for review sites **partial!**
+- [X] Develop a scraping algorithm for review sites 
 - [X] Develop a scraping algorithm for Metacritic
 - [X] Develop scripts to clean data for neural network/sentiment analysis
-- [X] Develop scriprs to put data objects into a local or cloud database (preferably MongoDB) **PostgreSQL for now**
-- [ ] Develop scripts to perform neural network/sentiment analysis
+- [X] Develop scriprs to put data objects into a local or cloud database (preferably Neo4J) 
+- [ ] Develop scripts to perform neural network/sentiment analysis **IN PROGRESS**
 - [ ] Publish findings and/or set up a demo site
-### Movie Data/Financial Analysis
+### Representation in Media Project
 - [X] Manually collect preliminary results
 - [X] Construct graphs from preliminary results to show preliminary findings
 - [X] Do interview about preliminary findings
 - [X] Develop a solution for importing IMDb raw data from official IMDb website into an SQL database
-- [ ] Supplement that data with additional data to support research questions
-- [ ] Develop a scraping algorithm for a reliable source of movie financial data (i.e. imdB)
-- [ ] Develop a scraping algorithm for a reliable source of audience attitude data (i.e. RottenTomatoes) **NOTE: Rotten Tomatoes is *very* hard to scrape!** **In progress**
+- [X] Supplement that data with additional data to support research questions
+- [ ] Develop a scraping algorithm for a reliable source of movie financial data (i.e. IMDb) **UNFEASIBLE DUE TO LICENSING**
+- [ ] Develop a scraping algorithm for a reliable source of audience attitude data (i.e. RottenTomatoes) **UNFEASIBLE DUE TO LICENSING**  **SEE BELOW**
+- [ ] Begin work on a clean room dataset rather than scraping **IN PROGRESS**
+  - [ ] Find collaborators (in progress) **IN PROGRESS**
+  - [X] Develop schema - YAML
 - [ ] Compare preliminary dataset with wider dataset based on financial information
 - [ ] Find attitude-based analysis data for both data sets
 - [ ] Present/publish findings
-### Build a database for media marketing and academic research
-- [ ] Implement a short term MongoDB solution
-- [ ] Test a PostgreSQL solution for structured data storage
-- [ ] Construct a significant corpus for machine learning
+### Develop database skills
+- [X] Implement a short term solution **FAMILIARITY ACHIEVED WITH POSTGRESQL AND NEO4J**
+- [X] Test a PostgreSQL solution for structured data storage
+- [X] Construct a significant corpus for machine learning **COMPLETE IN NEO4J**
+- [ ] Learn another NoSQL and/or graph database
+- [ ] Develop deeper familiarity with either Postgre or MariaDB
 ## Simple Language Goals
 ### Learning Python
 - [x] Learn basic Python syntax
@@ -47,19 +52,18 @@ This personal organizer/journal records Ellie Lockhart's achievement of mileston
 - [ ] Basic proficiency: selenium
 - [X] Basic proficiency: newspapers3k
 - [ ] Basic proficiency: django
-- [ ] Basic proficiency: Google search API
-- [ ] Proficiency: SciKitLearn
-- [ ] Proficiency: NLTK
-- [ ] Profiency: NLTK alternative (need to settle on one)
-- [ ] Proficiency: TensorFlow
+- [ ] Proficiency: SciKitLearn **ONGOING NOVEMBER 2020**
+- [X] Proficiency: NLTK **COMPLETE NOVEMBER 2020**
+- [ ] Profiency: spaCy **ONGOING NOVEMBER 2020**
+- [ ] Proficiency: TensorFlow/Keras OR PyTorch **ONGOING NOVEMBER 2020**
 ### Learning Javascript
 - [X] Understand basic Javascript syntax
 - [X] Understand Javascript data types
-- [ ] Understand the interaction between Javascript and the DOM in HTML
-- [ ] Understand the Node.js stack
+- [X] Understand the interaction between Javascript and the DOM in HTML **COMPLETE NOVEMBER 2020**
+- [ ] Understand the "MERN" Stack
 - [ ] Understand React components
 - [ ] Learn Express.js
-- [ ] Solidify a plan for a project using Express.js
+- [X] Solidify a plan for a project using Express.js **DETERMINED NOVEMBER 2020**
 - [ ] Develop a data visualization site with Javascript (minor project)
 ### Learning Kotlin
 - [X] Understand basic Kotlin syntax
@@ -67,20 +71,23 @@ This personal organizer/journal records Ellie Lockhart's achievement of mileston
 - [ ] Familiarize self with Android Studio
 - [ ] Familiarize self with 2D graphics libraries for Kotlin
 - [ ] Familiarize self with desktop and mobile GUI libraries for Kotlin
-### Learning noSQL
+### Learning noSQL & Graph Databases
 - [ ] Proficiency: MongoDB
-- [ ] Proficiency: Cassandra (IF TIME PERMITS)
+- [ ] Proficiency: Cassandra 
+- [X] Proficiency: Neo4J **COMPLETE OCTOBER 2020**
+- [ ] Proficiency: other graph database
 ### Learning SQL
 - [ ] Install a basic MongoDB setup either locally or in the cloud
 - [X] Install PostgreSQL
 - [X] Learn SQL basic database administration
-- [ ] Learn SQL scripting/queries **in progress**
-- [ ] Learn interfaces between SQL and Python
-- [ ] Learn interfaces between SQL and Javascript/Node
+- [X] Learn SQL scripting/queries **COMPLETE SEPTEMBER 2020**
+- [X] Learn interfaces between SQL and Python **COMPLETE SEPTEMBER 2020**
+- [X] Learn interfaces between SQL and Javascript/Node **COMPLETE NOVEMBER 2020**
 - [ ] Learn interfaces between SQL and Kotlin
 ### General Coding Goals
 - [X] Settle on a coding style for Python
 - [ ] Settle on a coding style for Javascript
 - [ ] Settle on a coding style for Kotlin
 - [ ] Clean up GitHub repos
-- [ ] Familiarize self with JetBrains IDEs & weigh pros & cons of cost
+- [X] Familiarize self with JetBrains IDEs & weigh pros & cons of cost ]**SWITCHED TO VS CODE OCTOBER 2020**
+- [X] Fully familiarize self with Visual Studio Code featureset **COMPLETE NOVEMBER 2020**
