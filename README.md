@@ -3,17 +3,15 @@
 This personal organizer/journal records Ellie Lockhart's achievement of milestones in her path to becoming a data scientist and software developer.
 
 ## Project Journal
-- August 2020: initiate study; begin GitHub commits on regular basis; contribute to existing open source projects (documentation, etc); formulate main projects (movie research, video game research, React or Express-based pseudo-Twine implementation)
-     - 08/16/2020: (Movie Financial Data Project) Upon being interviewed on manually collected data analysis about movie finances, begin work on a Python-based project to obtain, organize, and annotate information on movie financials to compare similarly themed movies and their financial success rates
-     - 08/27/2020: (Movie Financial Data Project) Begin studying ways to scrape Twitter for movie-related sentiment analysis; can also be cross-applied to video game sentiment analysis, and may be moved to this project overall
+- August 2020: initiate study; begin GitHub commits on regular basis; contribute to existing open source projects (documentation, etc); formulate main projects (movie research, video game research, React or Express-based pseudo-Twine implementation) - **COMPLETED**
 - September 2020: work with data science; read books; conduct actual web scraping
-    - 09/03/2020: (OSS Contributions, General Data Science) Commit documentation updates to trifalatura scraping library; read about broad data science processes and applications
-    - 09/05/2020: (General React.js)
-    - 09/08/2020: (OSS Contributions) Continue making commits to resources in the OSS community, particularly the MagicTools game development resources repository
-    - 09/11/2020: (Video Game ML project) Begin work developing a Newspaper3k/BeautifulSoup scraping algorithm for obtained Metacritic user reviews for sentiment analysis
-    - 09/14/2020: (Video Game ML project) Successfully scrape user and critic reviews for one entry on MetaCritic using previous scraping program; Python script should be usable for the movie data analysis project once it is adapted to work with RottenTomatoes
-    - 09/15/2020: (Movie Financial Data Mapping Project) Set up a PostgreSQL server locally; familiarize self with cloud solutions including AWS, IBM Cloud, and Azure
-    - 09/17/2020: (Movie Financial Data Mapping Project, Video Game ML Project) Begin import of raw data into PostgreSQL
+    - 09/03/2020: (OSS Contributions, General Data Science) Commit documentation updates to trifalatura scraping library [SUBMITTED]; read about broad data science processes and applications - **COMPLETED**
+    - 09/05/2020: (General React.js) - **ONGOING**
+    - 09/08/2020: (OSS Contributions) Continue making commits to resources in the OSS community, particularly the MagicTools game development resources repository - **COMPLETED** **ONGOING**
+    - 09/11/2020: (Video Game ML project) Begin work developing a Newspaper3k/BeautifulSoup scraping algorithm for obtained Metacritic user reviews for sentiment analysis - **ONGOING AS OF THIS LOGGED TIME PERIOD**
+    - 09/14/2020: (Video Game ML project) Successfully scrape user and critic reviews for one entry on MetaCritic using previous scraping program; Python script should be usable for the movie data analysis project once it is adapted to work with RottenTomatoes **COMPLETED**
+    - 09/15/2020: (Media Representation Project) Set up a PostgreSQL server locally; familiarize self with cloud solutions including AWS, IBM Cloud, and Azure **COMPLETED
+    - 09/17/2020: (Media Representation Project, Video Game ML Project) Begin import of raw data into PostgreSQL **COMPLETED**
 ## Project Goals
 ### Video Game Marketing/Sentiment Analysis
 - [ ] Develop a scraping algorithm for review sites **partial!**
